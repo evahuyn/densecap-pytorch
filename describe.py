@@ -205,13 +205,13 @@ def main(console_args):
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='Do dense captioning')
-    parser.add_argument('--config_json', type=str, help="path of the json file which stored model configuration")
+    parser.add_argument('--config_json', type=str, default="./model_params/config.json", help="path of the json file which stored model configuration")
     parser.add_argument('--lut_path', type=str, default='./data/VG-regions-dicts-lite.pkl', help='look up table path')
-    parser.add_argument('--model_checkpoint', type=str, help="path of the trained model checkpoint")
-    parser.add_argument('--img_path', type=str, help="path of images, should be a file or a directory with only images")
-    parser.add_argument('--result_dir', type=str, default='.',
+    parser.add_argument('--model_checkpoint', type=str, default="./model_params/train_all_val_all_bz_2_epoch_10_inject_init.pth.tar", help="path of the trained model checkpoint")
+    parser.add_argument('--img_path', type=str, default="./hateful_memes/img", help="path of images, should be a file or a directory with only images")
+    parser.add_argument('--result_dir', type=str, default='./result',
                         help="path of the directory to save the output file")
-    parser.add_argument('--box_per_img', type=int, default=100, help='max boxes to describe per image')
+    parser.add_argument('--box_per_img', type=int, default=5, help='max boxes to describe per image')
     parser.add_argument('--batch_size', type=int, default=1, help="useful when img_path is a directory")
     parser.add_argument('--extract', action='store_true', help='whether to extract features')
     parser.add_argument('--cpu', action='store_true', help='whether use cpu to compute')

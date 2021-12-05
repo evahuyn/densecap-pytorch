@@ -1,0 +1,314 @@
+{
+  "./test/img/01235.png": [
+    {
+      "box": [
+        7.4,
+        47.04,
+        518.71,
+        364.31
+      ],
+      "score": 1.0,
+      "cap": "man wearing a black shirt"
+    },
+    {
+      "box": [
+        74.61,
+        190.95,
+        512.88,
+        359.96
+      ],
+      "score": 0.98,
+      "cap": "a blue shirt on a man"
+    },
+    {
+      "box": [
+        194.75,
+        75.19,
+        352.67,
+        224.64
+      ],
+      "score": 0.97,
+      "cap": "a man with a beard"
+    },
+    {
+      "box": [
+        15.49,
+        160.4,
+        78.98,
+        311.24
+      ],
+      "score": 0.92,
+      "cap": "the hand of a man"
+    },
+    {
+      "box": [
+        13.96,
+        5.01,
+        530.74,
+        84.04
+      ],
+      "score": 0.87,
+      "cap": "white writing on the wall"
+    }
+  ],
+  "./test/img/01236.png": [
+    {
+      "box": [
+        58.29,
+        14.32,
+        650.46,
+        331.68
+      ],
+      "score": 0.98,
+      "cap": "a group of animals"
+    },
+    {
+      "box": [
+        57.06,
+        445.67,
+        300.71,
+        713.22
+      ],
+      "score": 0.97,
+      "cap": "a man wearing a white hat"
+    },
+    {
+      "box": [
+        83.52,
+        455.02,
+        609.61,
+        754.68
+      ],
+      "score": 0.95,
+      "cap": "two men wearing hats"
+    },
+    {
+      "box": [
+        352.2,
+        410.44,
+        534.57,
+        564.42
+      ],
+      "score": 0.95,
+      "cap": "a white hat on a mans head"
+    },
+    {
+      "box": [
+        332.23,
+        408.35,
+        561.43,
+        670.41
+      ],
+      "score": 0.89,
+      "cap": "a man wearing a white hat"
+    }
+  ],
+  "./test/img/01243.png": [
+    {
+      "box": [
+        110.94,
+        154.19,
+        477.59,
+        724.61
+      ],
+      "score": 1.0,
+      "cap": "a teddy bear with a red ribbon"
+    },
+    {
+      "box": [
+        52.63,
+        24.95,
+        446.36,
+        106.02
+      ],
+      "score": 0.98,
+      "cap": "the word <unk> on the sign"
+    },
+    {
+      "box": [
+        95.63,
+        167.59,
+        430.55,
+        409.14
+      ],
+      "score": 0.98,
+      "cap": "the head of a dog"
+    },
+    {
+      "box": [
+        160.17,
+        333.28,
+        406.65,
+        540.93
+      ],
+      "score": 0.97,
+      "cap": "the teddy bear has a red ribbon"
+    },
+    {
+      "box": [
+        192.35,
+        377.92,
+        376.7,
+        506.86
+      ],
+      "score": 0.94,
+      "cap": "the teddy bear has a red bow"
+    }
+  ],
+  "./test/img/01245.png": [
+    {
+      "box": [
+        136.84,
+        63.12,
+        488.27,
+        406.01
+      ],
+      "score": 1.0,
+      "cap": "a man holding a frisbee"
+    },
+    {
+      "box": [
+        104.98,
+        7.86,
+        444.86,
+        115.92
+      ],
+      "score": 0.98,
+      "cap": "a sign on the building"
+    },
+    {
+      "box": [
+        287.32,
+        72.95,
+        457.11,
+        249.89
+      ],
+      "score": 0.9,
+      "cap": "a man wearing a white shirt"
+    },
+    {
+      "box": [
+        199.49,
+        219.17,
+        489.93,
+        401.52
+      ],
+      "score": 0.89,
+      "cap": "a woman wearing a skirt"
+    },
+    {
+      "box": [
+        199.17,
+        241.7,
+        296.22,
+        341.0
+      ],
+      "score": 0.86,
+      "cap": "a green and white bag"
+    }
+  ],
+  "./test/img/01247.png": [
+    {
+      "box": [
+        6.14,
+        19.91,
+        274.18,
+        397.86
+      ],
+      "score": 1.0,
+      "cap": "man wearing a black shirt"
+    },
+    {
+      "box": [
+        35.62,
+        38.75,
+        249.6,
+        246.54
+      ],
+      "score": 0.99,
+      "cap": "a man with a beard"
+    },
+    {
+      "box": [
+        0.0,
+        4.26,
+        267.53,
+        71.39
+      ],
+      "score": 0.98,
+      "cap": "the word <unk> on the sign"
+    },
+    {
+      "box": [
+        94.51,
+        128.23,
+        197.74,
+        165.42
+      ],
+      "score": 0.97,
+      "cap": "the eyes of a man"
+    },
+    {
+      "box": [
+        14.67,
+        226.6,
+        256.23,
+        389.27
+      ],
+      "score": 0.97,
+      "cap": "a black jacket"
+    }
+  ],
+  "./test/img/01256.png": [
+    {
+      "box": [
+        107.84,
+        129.51,
+        528.02,
+        456.51
+      ],
+      "score": 0.99,
+      "cap": "a white and black cat"
+    },
+    {
+      "box": [
+        97.25,
+        431.35,
+        452.68,
+        532.84
+      ],
+      "score": 0.93,
+      "cap": "the word <unk> on the wall"
+    },
+    {
+      "box": [
+        333.32,
+        105.67,
+        456.67,
+        200.81
+      ],
+      "score": 0.93,
+      "cap": "the eye of a teddy bear"
+    },
+    {
+      "box": [
+        88.31,
+        6.51,
+        432.56,
+        101.03
+      ],
+      "score": 0.92,
+      "cap": "the word <unk> on the sign"
+    },
+    {
+      "box": [
+        73.47,
+        13.63,
+        520.23,
+        363.52
+      ],
+      "score": 0.91,
+      "cap": "a dog in a window"
+    }
+  ]
+}

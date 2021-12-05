@@ -1,7 +1,9 @@
 # Densecap in Pytorch
 
-A simplified pytorch version of [jcjohnson/densecap](https://github.com/jcjohnson/densecap)
-> Issue or Contact me directly by yhshi@bupt.edu.cn
+This repo borrowed code from https://github.com/soloist97/densecap-pytorch, a simplified pytorch version of [jcjohnson/densecap](https://github.com/jcjohnson/densecap)
+
+Use Densecap to generate image captions for Hateful memes.
+ > Put Hateful_memes foloder under the main directory, and run describe.py file
 
 ## What is densecap?
 * Detect regions from an image and describe each region with a short sentence. 
