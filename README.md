@@ -7,6 +7,8 @@ Use Densecap to generate image captions for Hateful memes.
 
 Max 5 box per image
 
+The result is stored under result folder. 
+
 ## What is densecap?
 * Detect regions from an image and describe each region with a short sentence. 
   ![example](./pics/example.png)
